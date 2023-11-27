@@ -1,0 +1,10 @@
+web-build
+.next
+out
+dist
+build
+src/__generated__
+src/schema.graphql
+*.log
+tmp
+nexus-typegen.ts
